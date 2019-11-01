@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="156px" viewBox="0 0 250 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>一</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,0 L1268,0 C1272.41828,-8.11624501e-16 1276,3.581722 1276,8 L1276,216 C1276,220.418278 1272.41828,224 1268,224 L8,224 C3.581722,224 5.41083001e-16,220.418278 0,216 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-1"></path>
+        <filter x="-0.5%" y="-2.2%" width="101.1%" height="106.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.215686275   0 0 0 0 0.247058824   0 0 0 0 0.317647059  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="98" y="0" width="2" height="146"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2" height="146" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="78" y="0" width="2" height="146"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2" height="146" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="58" y="0" width="2" height="146"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2" height="146" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="38" y="0" width="2" height="146"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2" height="146" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <linearGradient x1="100%" y1="50%" x2="0.13988598%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#F87B7B" offset="0%"></stop>
+            <stop stop-color="#F87B7B" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="营销体检" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1097.000000, -190.000000)">
+            <rect fill="#F6F7FB" x="0" y="0" width="1440" height="1360"></rect>
+            <g id="一" transform="translate(132.000000, 155.000000)">
+                <g id="Rectangle-6-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="pic" transform="translate(972.000000, 40.000000)">
+                    <path d="M0,18 L0,4 C0,1.790861 1.790861,0 4,0 L18,0 L18,2 L4,2 C2.8954305,2 2,2.8954305 2,4 L2,18 L0,18 Z M9.1038288e-15,128 L2,128 L2,142 C2,143.104569 2.8954305,144 4,144 L18,144 L18,146 L4,146 C1.790861,146 0,144.209139 0,142 L0,128 Z M236,18 L234,18 L234,4 C234,2.8954305 233.104569,2 232,2 L218,2 L218,0 L232,0 C234.209139,0 236,1.790861 236,4 L236,18 Z M236,128 L236,142 C236,144.209139 234.209139,146 232,146 L218,146 L218,144 L232,144 C233.104569,144 234,143.104569 234,142 L234,128 L236,128 Z" id="形状结合" fill="#F87B7B" fill-rule="nonzero"></path>
+                    <rect id="矩形" stroke="#2953DB" stroke-width="2" fill="#FFFFFF" x="55" y="13" width="126" height="86" rx="4"></rect>
+                    <path d="M41,123 L195,123 C197.209139,123 199,124.790861 199,127 L199,130 C199,132.209139 197.209139,134 195,134 L41,134 C38.790861,134 37,132.209139 37,130 L37,127 C37,124.790861 38.790861,123 41,123 Z" id="矩形" fill="#2953DB"></path>
+                    <path d="M56.2169906,99 C55.1826205,99 54.2212107,99.5328591 53.6729957,100.410003 L38.6729957,124.410003 C38.3749989,124.886798 38.2169906,125.437741 38.2169906,126 C38.2169906,127.656854 39.5601363,129 41.2169906,129 L194.783009,129 C195.345269,129 195.896211,128.841992 196.373006,128.543995 C197.778016,127.665864 198.205135,125.815013 197.327004,124.410003 L182.327004,100.410003 C181.778789,99.5328591 180.81738,99 179.783009,99 L56.2169906,99 Z" id="矩形" stroke="#2953DB" stroke-width="2" fill="#FDC94F"></path>
+                    <path d="M95.236068,113 C94.8572959,113 94.5110328,113.214002 94.3416408,113.552786 L90.3416408,121.552786 C90.2722131,121.691642 90.236068,121.844755 90.236068,122 C90.236068,122.552285 90.6837832,123 91.236068,123 L144.763932,123 C144.919177,123 145.07229,122.963855 145.211146,122.894427 C145.705124,122.647438 145.905348,122.046765 145.658359,121.552786 L141.658359,113.552786 C141.488967,113.214002 141.142704,113 140.763932,113 L95.236068,113 Z" id="矩形" stroke="#2953DB" stroke-width="2" fill="#FFFFFF"></path>
+                    <path d="M89,33.0052137 L89,57 L112.994786,57 C112.728703,69.7478376 102.311612,80 89.5,80 C76.5213084,80 66,69.4786916 66,56.5 C66,43.688388 76.2521624,33.2712969 89,33.0052137 Z" id="形状结合" fill="#C7ECFF"></path>
+                    <path d="M91,31.0052137 C91.166248,31.0017436 91.3329204,31 91.5,31 C104.478692,31 115,41.5213084 115,54.5 C115,54.6670796 114.998256,54.833752 114.994786,55 L91,55 L91,31.0052137 Z" id="形状结合" fill="#C7ECFF"></path>
+                    <rect id="矩形" fill="#2953DB" x="134" y="40" width="36" height="2" rx="1"></rect>
+                    <rect id="矩形" fill="#2953DB" x="134" y="50" width="36" height="2" rx="1"></rect>
+                    <rect id="矩形" fill="#2953DB" x="134" y="60" width="36" height="2" rx="1"></rect>
+                    <rect id="矩形" fill="#2953DB" x="134" y="70" width="36" height="2" rx="1"></rect>
+                    <rect id="矩形" fill="#F87B7B" x="118" y="0" width="2" height="146"></rect>
+                    <use id="矩形" stroke="#F87B7B" mask="url(#mask-4)" stroke-width="4" opacity="0.0971912202" stroke-dasharray="2,4" xlink:href="#path-3"></use>
+                    <use id="矩形" stroke="#F87B7B" mask="url(#mask-6)" stroke-width="4" opacity="0.0971912202" stroke-dasharray="2,4" xlink:href="#path-5"></use>
+                    <use id="矩形" stroke="#F87B7B" mask="url(#mask-8)" stroke-width="4" opacity="0.0971912202" stroke-dasharray="2,4" xlink:href="#path-7"></use>
+                    <use id="矩形" stroke="#F87B7B" mask="url(#mask-10)" stroke-width="4" opacity="0.0971912202" stroke-dasharray="2,4" xlink:href="#path-9"></use>
+                    <rect id="矩形" fill-opacity="0.3" fill="url(#linearGradient-11)" x="18" y="0" width="100" height="146"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
