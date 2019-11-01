@@ -12,10 +12,10 @@ npm install
 svgc <path> <filename>  
 
 # to Vue compent
-svgc <path> <filename>  -E
+svgo <path> <filename>  -E
 
 # to React compent
-svgc <path> <filename>  -R
+svgo <path> <filename>  -R
 ```
 
 
